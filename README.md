@@ -1,6 +1,7 @@
 
+Source code Repository URL: https://github.com/Jwala10/Stock-Market.git
 
-`Tech Used:` React-Native, native-echarts, expo, antd-mobile,react-navigation
+Tech Used: React-Native, native-echarts, expo, antd-mobile,react-navigation
 
 ## Description:
 
